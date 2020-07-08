@@ -1,5 +1,5 @@
 {
-  "name": "JackSmall/SuperFactory",
+  "name": "jack/super-factory",
   "description": "This is an example of service container evolution",
   "minimum-stability": "stable",
   "license": "none",
