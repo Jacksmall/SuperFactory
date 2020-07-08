@@ -1,0 +1,15 @@
+{
+  "name": "JackSmall/SuperFactory",
+  "description": "This is an example of service container evolution",
+  "minimum-stability": "stable",
+  "license": "none",
+  "authors": [
+    {
+      "name": "JackSmall",
+      "email": "812254315@qq.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
